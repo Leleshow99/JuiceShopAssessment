@@ -1,0 +1,5 @@
+pony==0.7.16
+flask==2.3.3
+Flask-Testing==0.8.1
+pytz==2023.3
+deepdiff==6.3.1
